@@ -11,13 +11,14 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   color: white;
 }
 
-html { background: #333333 url('../bg.png'); }
+html {
+    background: #333333 url('../bg.png');
+}
 
 body {
     width: 60%;
-    padding-top: 5%;
-    margin: 0 auto; 
-    
+    padding-top: 6%;
+    margin: 0 auto;     
     font-family: 'Helvetica Neue', Helvetica, sans-serif;
 }
 
